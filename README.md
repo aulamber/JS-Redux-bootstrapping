@@ -1,1 +1,1 @@
-# Bootstrapping kit to start with redux, react, webpack and babel
+# Bootstrapping kit to start with redux, react, react-router, webpack and babel.
